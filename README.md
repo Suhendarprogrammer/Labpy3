@@ -31,11 +31,11 @@
 
 **1.** Kita buat Syntax nya terlebih dahulu seperti ini.
 
-![nilai random](https://user-images.githubusercontent.com/45907948/53144787-447ca580-35$ 
+![nilai random](https://user-images.githubusercontent.com/45907948/53223485-17012c00-36a4-11e9-84d0-01e7c8bf319b.png)
 
 **2.** Lalu hasil Outputnya seperti ini.
 
-![hasil1](https://user-images.githubusercontent.com/45907948/53144898-ad641d80-$
+![hasil1](https://user-images.githubusercontent.com/45907948/53223481-15cfff00-36a4-11e9-91e7-6669c8a674ee.png)
 
 ### Latihan 2
 
@@ -49,7 +49,7 @@ Membuat program untuk menampilkan bilangan terbesar dari data yang diinputkan.
 
 **3.** Buat lah seperti gambar dibawah ini.
 
-![nilai terbesar](https://user-images.githubusercontent.com/45907948/53146234-0aae9d80-$
+![nilai terbesar](https://user-images.githubusercontent.com/45907948/53223486-1799c280-36a4-11e9-9f8c-5eb644abccb9.png)
 
 **6.** Memasukan bilangan integer pada "a"
 
@@ -59,7 +59,7 @@ Membuat program untuk menampilkan bilangan terbesar dari data yang diinputkan.
 
 **9.** Mencetak nilai terbesar setelah break, sehingga menampilkan nilai terbesar diantara bilangan tersebut dalam perulangan.
 
-![hasil2](https://user-images.githubusercontent.com/45907948/53146316-55c8b080-$
+![hasil2](https://user-images.githubusercontent.com/45907948/53223482-16689580-36a4-11e9-8d4e-1389555385b8.png)
 
 **10.** selesai
 
@@ -115,11 +115,12 @@ Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
 17.Selesai
 
-**Syntax program 1 sebagai berikut :**
+**Syntax latihan 3 sebagai berikut :**
 
-![program1](https://user-images.githubusercontent.com/45907948/53146444-c4a6098$
+![program1](https://user-images.githubusercontent.com/45907948/53223487-18325900-36a4-11e9-8d85-f203dd4180f7.png)
 
 **Hasil Output nya sebagai berikut :**
 
-![hasil3](https://user-images.githubusercontent.com/45907948/53146467-dab3ca00-$
+![hasil3](https://user-images.githubusercontent.com/45907948/53223484-17012c00-36a4-11e9-81f5-80c1b117f76b.png)
+
 
